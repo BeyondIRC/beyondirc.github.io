@@ -272,7 +272,7 @@ Full-Width Styles
 }
 
 #forkme_banner {
-  display: block;
+  display: none;
   position: absolute;
   top:0;
   right: 10px;
@@ -365,6 +365,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
+  display: none;
   background: #212121;
 }
 
